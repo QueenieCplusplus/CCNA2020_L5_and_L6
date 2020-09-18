@@ -13,3 +13,5 @@
 
 
 # Presentation Layer
+
+將準備傳輸的資料格式編碼為網路傳輸的標準格式 HTML 、 XML 、 Json，並藉由下一層會議和傳輸層傳送封包。
